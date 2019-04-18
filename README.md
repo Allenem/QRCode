@@ -22,9 +22,9 @@ QRCode.jar是二维码相关运算的依赖包
 ![文件框架.png](https://upload-images.jianshu.io/upload_images/7728717-78a61087542051ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
    
 **效果图如下：**    
-![运行代码截图.png](https://upload-images.jianshu.io/upload_images/7728717-f54df946a40a2e93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+![运行代码截图.png](https://upload-images.jianshu.io/upload_images/7728717-efbdd8a0da01b960.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
    
 **生成二维码图片如下：**   
-![qrcode.jpg](https://upload-images.jianshu.io/upload_images/7728717-fa50a4db8a5acd0f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+![qrcode.jpg](https://upload-images.jianshu.io/upload_images/7728717-187c433d121096de.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
    
-初学者不足之处还请批评指正 ︿(๑‾ ꇴ ‾๑)︿[THANK YOU~]
+**初学者不足之处还请批评指正 ︿(๑‾ ꇴ ‾๑)︿[THANK YOU~]**
